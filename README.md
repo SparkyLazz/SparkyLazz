@@ -13,8 +13,8 @@
 ```
 🎮  Game Developer crafting dark, atmospheric 2D experiences
 🕯️  Currently working on Light Them — a 2D horror platformer
-🌱  Always learning new ways to terrify players
-⚡  Fun fact: The scariest games have the best gameplay loops
+🌱  Always learning new ways for efficient better
+⚡  Fun fact: Building Studio Prototype for profiling
 ```
 
 ---
