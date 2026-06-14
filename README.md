@@ -32,7 +32,7 @@ Currently focused on understanding *why* things work — not just making them ru
 
 ## 📈 GitHub Stats
 
-![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparkyLazz&show_icons=true&theme=default&hide_border=true)
 
 ---
 
