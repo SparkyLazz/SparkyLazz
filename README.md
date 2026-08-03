@@ -10,7 +10,6 @@ Currently focused on understanding *why* things work — not just making them ru
 
 - Building mathematical intuition for ML: linear algebra, calculus, probability
 - Implementing neural network fundamentals from scratch with NumPy
-- Growing [`tinker-vault`](https://github.com/SparkyLazz/tinker_vault) — a collection of mini projects built consistently
 
 ---
 
